@@ -1,6 +1,7 @@
 --- Jogo: Adivinhe o número
 -- Modulos importantes
 local math = require("math")
+local io = require("io")
 
 
 -- Variaveis Locais
